@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haminhhai&show_icons=true&locale=en" alt="haminhhai" /></p>
 <h3 align="left">Some Projects:</h3>
-<a href="https://nextjs-pokedex-fawn.vercel.app/">Pokemon Dex</a>
+<a href="https://nextjs-pokedex-fawn.vercel.app/" target="_blank">Pokemon Dex</a>
 <br/>
-<a href="https://nextjs-pokedex-fawn.vercel.app/">Blog</a>
+<a href="https://nextjs-pokedex-fawn.vercel.app/" target="_blank">Blog</a>
