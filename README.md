@@ -24,4 +24,4 @@
 <h3 align="left">Some Projects:</h3>
 <a href="https://nextjs-pokedex-fawn.vercel.app/" target="_blank">Pokemon Dex</a>
 <br/>
-<a href="https://nextjs-pokedex-fawn.vercel.app/" target="_blank">Blog</a>
+<a href="https://blog-tech-kappa.vercel.app/" target="_blank">Blog</a>
